@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodingComrade or you can call me Chris since that is my name.
-- 👀 I’m interested in contributing to OSS and learning more about software in general. I'm an aspiring software engineer with the goal of perfecting my code and mastering the fundamentals. I welcome any help in those goals!
-- 🌱 I’m currently learning how to effectively write code and become a software engineer. Fundamentals are key and that's what I hope to improve on while contributing to OSS.
-- 💞️ I’m looking to collaborate on any project so that I can improve my understanding of software. 
+- 👀 I’m interested in contributing to OSS and building cool personal projects. 
+- 🌱 I’m currently working on learning more languages and build upon my foundational knowledge of programming.
+- 💞️ I’m looking to join a motivated team of people that work on fun projects. I'm open to work.
 - 📫 You can reach me on my linkedin page www.linkedin.com/in/chris-small-a93651123
 
 
