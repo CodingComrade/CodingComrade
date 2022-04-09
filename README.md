@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CodingComrade or you can call me Chris since that is my name.
+- 👋 Hi, my name is Chris.
 - 👀 I’m interested in contributing to OSS and building cool personal projects. 
-- 🌱 I’m currently working on learning more languages and build upon my foundational knowledge of programming.
+- 🌱 I’m currently building random projects with JavaScript.
 - 💞️ I’m looking to join a motivated team of people that work on fun projects. I'm open to work.
 - 📫 You can reach me on my linkedin page www.linkedin.com/in/chris-small-a93651123
 
