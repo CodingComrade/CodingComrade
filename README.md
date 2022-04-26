@@ -18,8 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for work with **a motivated, friendly and positive team of people that work on fun projects. I'm open to working in full-stack, front-end or back-end roles.**
 
-- 📫 How to reach me **www.linkedin.com/in/csmallcode**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codingcomrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codingcomrade" height="30" width="40" /></a>
