@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Full-stack Software Engineer #100Devs</h3>
 
-- 🔭 I’m currently working on **building front-end projects. Some are static websites, others use JavaScript and APIs. Soon I'll be creating new full-stack projects and adding full-stack implementation to existing ones**
+- 🔭 I’m currently working on **building front-end projects. Some are static websites, others use JavaScript and APIs. Soon I'll be creating new full-stack projects and adding full-stack implementation to existing ones.**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for work with **a motivated, friendly and positive team of people that work on fun projects. I'm open to working in full-stack, front-end or back-end roles**
+- 🤝 I’m looking for work with **a motivated, friendly and positive team of people that work on fun projects. I'm open to working in full-stack, front-end or back-end roles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
