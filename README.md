@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Full-stack Software Engineer #100Devs</h3>
 
-- 🔭 I’m currently working on **I’m currently building front-end projects. Some are static websites, others use JavaScript and APIs. Soon I'll be creating new full-stack projects and adding full-stack implementation to existing ones**
+- 🔭 **I’m currently building front-end projects. Some are static websites, others use JavaScript and APIs. Soon I'll be creating new full-stack projects and adding full-stack implementation to existing ones**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
