@@ -18,8 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for work with **a motivated, friendly and positive team of people that work on fun projects. I'm open to working in full-stack, front-end or back-end roles.**
 
-- 📫 How to reach me **www.linkedin.com/in/csmallcode**
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
