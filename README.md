@@ -19,11 +19,27 @@ You can click the Preview link to take a look at your changes.
 - 🤝 I’m looking for work with **a motivated, friendly and positive team of people that work on fun projects. I'm open to working in full-stack, front-end or back-end roles.**
 
 - 📫 How to reach me **www.linkedin.com/in/csmallcode**
+<div>
+  <p>Marin's Cosplay Website</p>
+  <img src="https://user-images.githubusercontent.com/79964754/168486471-67f45983-a881-4013-a3f0-d3ba428fdeda.gif" height='250' width='300'>
+</div>
+<div>
+ <p>Who's That Pokemon</p>
+  <img src="https://user-images.githubusercontent.com/79964754/168486479-9932b068-8e7b-41c1-80dd-9941c4891f65.gif" height='250' width='300'>
+</div>
+<div>
+  <p>Mortal Kombat</p>
+  <img src="https://user-images.githubusercontent.com/79964754/168486473-393fe879-ecee-41c9-9aaa-fac6210cb3c9.gif" height='250' width='300'>
+</div>
+<div>
+  <p>Waifu Generator</p>
+<img src="https://user-images.githubusercontent.com/79964754/168486472-063f7489-2859-401d-8f9b-ff39b6019140.gif" height='250' width='300'>
+</div>
 
-![](pokemon.gif)
-![](mortalkombat.gif)
-![](waifu.gif)
-![](marin.gif)
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
