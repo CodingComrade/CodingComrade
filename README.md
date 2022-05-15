@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
           <img src="https://user-images.githubusercontent.com/79964754/168486471-67f45983-a881-4013-a3f0-d3ba428fdeda.gif" width="100%" alt="Marin's Cosplay"/>
       <br />
         <p align="center">
-  <a href="https://github.com/CodingComrade/marinsCosplayWebsite" target="_blank">
+  <a href="https://github.com/CodingComrade/marinsCosplay" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
