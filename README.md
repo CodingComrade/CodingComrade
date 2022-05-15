@@ -19,22 +19,68 @@ You can click the Preview link to take a look at your changes.
 - 🤝 I’m looking for work with **a motivated, friendly and positive team of people that work on fun projects. I'm open to working in full-stack, front-end or back-end roles.**
 
 - 📫 How to reach me **www.linkedin.com/in/csmallcode**
-<div>
-  <p>Marin's Cosplay Website</p>
-  <img src="https://user-images.githubusercontent.com/79964754/168486471-67f45983-a881-4013-a3f0-d3ba428fdeda.gif" height='250' width='300'>
-</div>
-<div>
- <p>Who's That Pokemon</p>
-  <img src="https://user-images.githubusercontent.com/79964754/168486479-9932b068-8e7b-41c1-80dd-9941c4891f65.gif" height='250' width='300'>
-</div>
-<div>
-  <p>Mortal Kombat</p>
-  <img src="https://user-images.githubusercontent.com/79964754/168486473-393fe879-ecee-41c9-9aaa-fac6210cb3c9.gif" height='250' width='300'>
-</div>
-<div>
-  <p>Waifu Generator</p>
-<img src="https://user-images.githubusercontent.com/79964754/168486472-063f7489-2859-401d-8f9b-ff39b6019140.gif" height='250' width='300'>
-</div>
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Who's That Pokemon?</h3>
+        <br />
+            <img src="https://user-images.githubusercontent.com/79964754/168486479-9932b068-8e7b-41c1-80dd-9941c4891f65.gif" width="100%" alt="Who's That Pokemon"/>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CodingComrade/Pokemon" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+        <p><strong>HTML, CSS and JavaScript</strong> - Pokemon guessing game based on the classic <i>Who's That Pokemon</i> segment from the original Pokemon anime. The audio from the show also plays when clicking the Pokemon</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Mortal Kombat Character Generator</h3>
+        <br />
+            <img src="https://user-images.githubusercontent.com/79964754/168486473-393fe879-ecee-41c9-9aaa-fac6210cb3c9.gif" width="100%"  alt="Mortal Kombat"/>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CodingComrade/mortalKombat" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, and JavaScript</strong> - With a character selector stylized like the video game, this app lets you choose a Mortal Kombat character which causes the background to change to that character. The klassic announcer also declares your selection</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Marin's Cosplay Website</h3>
+      <br />
+          <img src="https://user-images.githubusercontent.com/79964754/168486471-67f45983-a881-4013-a3f0-d3ba428fdeda.gif" width="100%" alt="Marin's Cosplay"/>
+      <br />
+        <p align="center">
+  <a href="https://github.com/CodingComrade/marinsCosplayWebsite" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3</strong> - Static cosplay site for Marin Kitagawa</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Waifu Generator</h3>
+        <br />
+          <img src="https://user-images.githubusercontent.com/79964754/168486472-063f7489-2859-401d-8f9b-ff39b6019140.gif" width="100%" alt="Waifu Generator"/>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CodingComrade/waifuGenerator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - By using an API, users can click on the image and it will generate a new anime character. Link is also provided to find the source of the image and where the character is from</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
@@ -49,4 +95,13 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+</p>
