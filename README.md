@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
-        <p><strong>HTML, CSS and JavaScript</strong> - Pokemon guessing game based on the classic <i>Who's That Pokemon</i> segment from the original Pokemon anime. The audio from the show also plays when clicking the Pokemon</p>
+        <p><strong>HTML, CSS and JavaScript</strong> - Pokemon guessing game based on the classic <i>Who's That Pokemon</i> segment from the original Pokemon anime. The audio from the show also plays when clicking the Pokemon. Guessing correctly builds a streak. If you reach 151, you win a badge! Guess wrong and your streak resets.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Mortal Kombat Character Generator</h3>
