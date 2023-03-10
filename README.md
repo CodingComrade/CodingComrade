@@ -41,16 +41,17 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Marin's Cosplay Website</h3>
+      <h3 align="center">Hockey Tournament Website</h3>
       <br />
-          <img src="https://user-images.githubusercontent.com/79964754/168486471-67f45983-a881-4013-a3f0-d3ba428fdeda.gif" width="100%" alt="Marin's Cosplay"/>
+          <img src="https://user-images.githubusercontent.com/79964754/224378801-704e5edd-5b5c-4555-9a0a-90604b321518.gif" width="100%" alt="Hockey Website"/>
       <br />
-        <p align="center">
-  <a href="https://github.com/CodingComrade/marinsCosplay" target="_blank">
+      <p align="center">
+        
+  <a href="https://github.com/CodingComrade/capstone" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3</strong> - Static cosplay site for Marin Kitagawa</p>
+        <p><strong>Java, Spring Boot, MySQL, Thymeleaf, JavaScript, Bootstrap</strong> - Unauthorized users can signup and login, authorized users can view bracket, scores of all the games played, and interact with player list with full CRUD implementation. Hibernate is used to interact with database.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Waifu Generator</h3>
@@ -93,5 +94,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cbb148&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cbb148&style=plastic&logo=JAVA"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=cbb148&style=plastic&logo=SQL"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MySQL&color=cbb148&style=plastic&logo=MySQL"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Thymeleaf&color=cbb148&style=plastic&logo=Thymeleaf"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=SpringBoot&color=cbb148&style=plastic&logo=SpringBoot"/>
 </p>
