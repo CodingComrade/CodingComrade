@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Java, Spring Boot, MySQL, Thymeleaf, JavaScript, Bootstrap</strong> - Unauthorized users can signup and login, authorized users can view bracket, scores of all the games played, and interact with player list with full CRUD implementation. Hibernate is used to interact with database.</p>
+        <p><strong>Java, Spring Boot, Junit, MySQL, Thymeleaf, JavaScript, Bootstrap</strong> - Unauthorized users can signup and login, authorized users can view bracket, scores of all the games played, and interact with player list with full CRUD implementation. Hibernate is used to interact with database.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Waifu Generator</h3>
