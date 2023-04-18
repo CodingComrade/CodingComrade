@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Full-stack Software Engineer</h3>
 
-- 🔭 **I’m currently building projects for clients. Hockey Statistics webpage is my latest project. Below you will find the repo**
+- 🔭 **I’m currently building projects for clients. Hockey Statistics webpage is the latest project I was assigned and completed. Below you will find the repo**
 
 - 👯 I’m looking to collaborate on **open source projects or building an app for you. Below you will find the languages I have built applications with.**
 
