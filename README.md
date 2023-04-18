@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Full-stack Software Engineer #100Devs</h3>
 
-- 🔭 **I’m currently building front-end projects. Some are static websites, others use JavaScript and APIs. Soon I'll be creating new full-stack projects and adding full-stack implementation to existing ones**
+- 🔭 **I’m currently building projects for clients. Hockey Statistics webpage is my latest project. Below you will find the repo**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on **open source projects or building an app for you. Below you will find the languages I have built applications with.**
 
-- 🤝 I’m looking for work with **a motivated, friendly and positive team of people that work on fun projects. I'm open to working in full-stack, front-end or back-end roles.**
+- 🤝 I’m looking for work with **a fun and hard-working DevOps or Agile team. I'm open to full-stack, front-end, or back-end roles.**
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
