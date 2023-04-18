@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">Full-stack Software Engineer #100Devs</h3>
+<h3 align="center">Full-stack Software Engineer</h3>
 
 - 🔭 **I’m currently building projects for clients. Hockey Statistics webpage is my latest project. Below you will find the repo**
 
